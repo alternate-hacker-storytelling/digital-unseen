@@ -1,0 +1,19 @@
+# Navbar left menu navigation links
+
+left:
+  - title: Home
+    url: /
+
+  - title: Outline
+    url: /docs/research/
+
+  - title: Stories
+    url: /stories/
+
+# Navbar right menu navigation links
+
+right:
+
+  - title: Contact
+    url: /contact/
+    button: success

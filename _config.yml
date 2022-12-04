@@ -1,0 +1,118 @@
+title:              Unseen
+description:        Stories of how we are losing ourselves.
+lang:               en
+
+# Site subpath, e.g. /blog
+baseurl:            ""
+
+# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:title/
+
+# Site base hostname & protocol, e.g. http://example.com
+url:                ""
+
+# Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
+logo:               
+
+navbar:
+    sticky:         true
+    search:         true
+  
+author:
+    name:           Kin Lane
+    title:          Chief Evangelist
+    avatar:         https://kinlane-productions2.s3.amazonaws.com/kin-lane/kin-lane-cartoon-questioning.png
+
+authors:
+    kin:
+      name:         Kin Lane
+      title:        Chief Evangelist 
+      avatar:       https://kinlane-productions2.s3.amazonaws.com/kin-lane/kin-lane-cartoon-questioning.png
+      email:       'kinlane@postman.com'
+      affiliation: 'Postman Open Technologies'
+      github:      'kinlane'
+      linkedin:    'in/kinlane'
+      twitter:     'kinlane' 
+
+social:
+    email:
+    website:
+    facebook:       https://www.facebook.com/people/API-Evangelist/100037190996914/
+    flickr:
+    dribbble:
+    github:         https://github.com/api-evangelist
+    googleplus:
+    instagram:     
+    linkedin:       https://www.linkedin.com/in/kinlane/
+    pinterest:
+    twitter:        https://twitter.com/apievangelist
+    vimeo:          
+    youtube:        https://www.youtube.com/c/postman
+    mastodon:       https://mastodon.apievangelist.com/web/@api 
+
+# Share button
+share:
+    post:           true # Display share buttons on a post doc
+    doc:            true # Display share buttons on a doc doc
+    twitter:        username # Enable by adding Twitter handle 
+    facebook:       true # Enable by setting true (Facebook handle not required)
+
+# Default footer image settings
+footer:
+    copyright:      Kin Lane
+
+# Disqus comments shortname, requires Disqus account https://disqus.com/
+disqus:
+    shortname:      # 1234
+
+# Google analytics code, get your code here https://www.google.com/analytics/
+google_analytics:
+
+# Number of posts displayed on blog doc
+paginate:           25
+
+# Blog path
+paginate_path:      "/blog/:num/"
+
+# Path to post content assets directory i.e post images, pdfs etc
+uploads: 
+
+# Build settings
+markdown:           kramdown
+highlighter:        rouge
+
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-avatar
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+sass:
+  style:            compressed
+
+collections:
+  docs:
+    output:         true
+  faqs:
+    output:         false
+  changelogs:
+    output:         false
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path:         ""
+      type:         posts
+    values:
+      layout:       post
+  # _docs
+  - scope:
+      path:         ""
+      type:         docs
+    values:
+      layout:       doc
