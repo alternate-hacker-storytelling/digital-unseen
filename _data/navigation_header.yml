@@ -10,10 +10,22 @@ left:
   - title: Stories
     url: /stories/
 
+  - title: Notes
+    url: /notes/
+
+  - title: Links
+    url: /links/    
+
+  - title: Characters
+    url: /characters/
+
+  - title: Vocabulary
+    url: /vocabulary/
+
+
+
+
 # Navbar right menu navigation links
 
 right:
 
-  - title: Contact
-    url: /contact/
-    button: success

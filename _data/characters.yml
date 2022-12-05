@@ -1,7 +1,10 @@
 # Characters
 
-- title: Jerome Johnson
-  desc: Researcher who stumbles across the syndrome while doing research about online sex workers.
+- name: Jerome Johnson
+  description: Researcher who stumbles across the syndrome while doing research about online sex workers.
 
-- title: Molly Richardson
-  desc: Single white female who works remotely and loves to read science fiction books and lives on the 7th floor of nice high rise.
+- name: Molly Richardson
+  description: Single white female who works remotely and loves to read science fiction books and lives on the 7th floor of nice high rise.
+
+- name: Sean Wright
+  description: Single young gamer who hates working and just wants to stay home and do what they want, without being hassled by anyone.

@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Links | Unseen</title>
+<meta name="generator" content="Jekyll v3.4.1" />
+<meta property="og:title" content="Links" />
+<meta name="author" content="Kin Lane" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Stories of how we are losing ourselves." />
+<meta property="og:description" content="Stories of how we are losing ourselves." />
+<link rel="canonical" href="http://localhost:4000/links/" />
+<meta property="og:url" content="http://localhost:4000/links/" />
+<meta property="og:site_name" content="Unseen" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Kin Lane"},"url":"http://localhost:4000/links/","headline":"Links","description":"Stories of how we are losing ourselves.","@type":"WebPage","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <meta property="og:image" content=""/>
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="shortcut icon" type="image/png" href="/uploads/favicon.png" >
+  <link rel="alternate" type="application/rss+xml" title="Unseen" href="/feed.xml">
+  <script src="/assets/js/main.js"></script>
+  
+    <script>
+function searchResults(form) {
+
+    var currentItem = null;
+    var search = document.getElementById(form);
+    var results = document.getElementById(form + "-results");
+    var toggle = document.getElementById(form + "-toggle");
+
+    function removeActive() {
+        for (i = 0; i < results.children.length; i++) {
+            results.children[i].classList.remove("uk-background-muted");
+        }
+    }
+
+    // Detect all clicks on the document
+    document.addEventListener("click", function(event) {
+
+        var isClickSearch = false;
+        var isClickResults = false;
+        var isClickSearchToggle = false;
+
+        if (search !== null) {
+            isClickSearch = search.contains(event.target);
+        }
+
+        if (results !== null) {
+            isClickResults = results.contains(event.target);
+        }
+
+        if (toggle !== null) {
+            isClickSearchToggle = toggle.contains(event.target);
+        }
+
+        if (isClickSearch || isClickSearchToggle) {
+            results.style.display = "block";
+        }        
+
+        if (!isClickResults && !isClickSearch && !isClickSearchToggle) {
+            results.style.display = "none";
+        }        
+        
+    });    
+
+    results.addEventListener("mouseover", function(event) {
+
+        removeActive();
+        event.target.parentElement.classList.add("uk-background-muted");
+        currentItem = null;
+
+    });
+
+    results.addEventListener("mouseout", function(event) {
+        event.target.parentElement.classList.remove("uk-background-muted");
+    });
+
+
+    search.addEventListener("keyup", function(event) {
+
+        var resultItems = results.children;
+        var resultCount = results.children.length;
+                                
+        if (event.keyCode === 40) {
+
+            if (currentItem < (resultCount - 1)) {
+                if (currentItem === null) {
+                    currentItem = 0;
+                } else {
+                    removeActive();
+                    currentItem++;
+                }
+                removeActive();
+                resultItems[currentItem].classList.add("uk-background-muted");
+            }
+            
+        } else if (event.keyCode === 38) {
+
+            if (currentItem > 0) {
+                if (currentItem === null) {
+                    currentItem = 0;
+                } else {
+                    removeActive();
+                    currentItem--;
+                }
+                removeActive();
+                resultItems[currentItem].classList.add("uk-background-muted");
+            }
+
+        } else if (event.keyCode === 13) {
+
+            resultItems[currentItem].children[0].click();
+
+        }
+
+    });
+
+}
+</script>
+  
+  
+  
+</head>
+
+    <body>
+
+    
+        <div data-uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-navbar-transparent; top: 200">
+    <nav class="uk-navbar-container">
+        <div class="uk-container">
+            <div data-uk-navbar>
+                <div class="uk-navbar-left">
+                    <a class="uk-navbar-item uk-logo uk-visible@m" href="/">Unseen</a>
+                    
+                        <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas-docs" data-uk-toggle><span data-uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">docs</span></a>
+                    
+
+                    <ul class="uk-navbar-nav uk-visible@m">
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/" >Home</a></li>
+                                                                                                        
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/docs/research/" >Outline</a></li>
+                                                                                                        
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/stories/" >Stories</a></li>
+                                                                                                        
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/notes/" >Notes</a></li>
+                                                                                                        
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li class="uk-active"><a href="/links/" >Links</a></li>
+                                                                                                        
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/characters/" >Characters</a></li>
+                                                                                                        
+                                
+                            
+                        
+                            
+                            
+                            
+                                
+                                    
+                                        <li><a href="/vocabulary/" >Vocabulary</a></li>
+                                                                                                        
+                                
+                            
+                        
+                    </ul>
+                </div>
+                <div class="uk-navbar-center uk-hidden@m">
+                    <a class="uk-navbar-item uk-logo" href="/">Unseen</a>
+                </div>
+                <div class="uk-navbar-right">
+                    
+                        
+                            <div>
+                                <a id="search-navbar-toggle" class="uk-navbar-toggle" uk-search-icon href="#"></a>
+                                <div class="uk-drop uk-background-default uk-border-rounded" uk-drop="mode: click; pos: left-center; offset: 0">
+                                    <form class="uk-search uk-search-navbar uk-width-1-1" onsubmit="return false;">
+                                        <input id="search-navbar" class="uk-search-input" type="search" placeholder="Search for answers" autofocus autocomplete="off">
+                                    </form>
+                                    <ul id="search-navbar-results" class="uk-position-absolute uk-width-1-1 uk-list"></ul>
+                                </div>
+                            </div>
+                            <script>
+                            SimpleJekyllSearch({
+                                searchInput: document.getElementById('search-navbar'),
+                                resultsContainer: document.getElementById('search-navbar-results'),
+                                noResultsText: '<li class="no-results">No results found</li>',
+                                searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+                                json: "/search.json"
+                            });
+                            searchResults("search-navbar");
+                            </script>
+                        
+                    
+
+                    <ul class="uk-navbar-nav uk-visible@m">
+                        
+                    </ul>
+
+                    
+                        <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas" data-uk-toggle><span data-uk-navbar-toggle-icon></span> <span class="uk-margin-small-left">Menu</span></a>
+                    
+
+                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+    
+
+    
+<div class="uk-section">
+    <div class="uk-container uk-container-xsmall">
+
+        <article class="uk-article">
+
+            <h1 class="uk-article-title">Links</h1>
+
+            <div class="article-content link-primary">
+                
+<ul>
+  <li>
+    <p><strong><a href="https://neurosciencenews.com/perception-invisibility-illusion-1992/">Becoming The Invisible Person</a></strong> - The power of invisibility has long fascinated man and inspired the works of many great authors and philosophers. In a study from Sweden’s Karolinska Institutet, a team of neuroscientists today reports a perceptual illusion of having an invisible body and show that the feeling of invisibility changes our physical stress response in challenging social situations.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.mcgill.ca/oss/article/student-contributors-general-science/do-our-brains-see-what-our-eyes-see">Do our brains see what our eyes see?</a></strong> - There are many optical illusions in our everyday lives, but the reason we see these illusions isn’t just a trick of the eye.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://en.wikipedia.org/wiki/Gaze">Gaze</a></strong> - In critical theory, sociology, and psychoanalysis, the gaze (French le regard), in the philosophical and figurative sense, is an individual’s (or a group’s) awareness and perception of other individuals, other groups, or oneself. The concept and the social applications of the gaze have been defined and explained by existentialist and phenomenologist philosophers. Jean-Paul Sartre described the gaze (or “the look”) in Being and Nothingness (1943).[1] Michel Foucault, in Discipline and Punish. The Birth of the Prison (1975), developed the concept of the gaze to illustrate the dynamics of socio-political power relations and the social dynamics of society’s mechanisms of discipline. Jacques Derrida, in The Animal that Therefore I Am (More to Come) (1997), elaborated upon the inter-species relations that exist among human beings and other animals, which are established by way of the gaze.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.snexplores.org/article/explainer-how-our-eyes-make-sense-of-light">How our eyes make sense of light</a></strong> - How do your eyes work? It’s far more than just forming a tiny picture in your eye. There’s also color and motion. It takes many cells — and finally the brain — to make sense of it all.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.nytimes.com/2015/02/08/opinion/sunday/how-to-be-invisible.html">How to Be Invisible</a></strong> - IN one of the most popular ads shown during the Super Bowl last weekend, the Indian-American actress Mindy Kaling thinks she’s become invisible. Cabs pass her by, and men barely look up on the sidewalk. And yet she embraces her invisibility as a kind of liberation. More of us should do the same.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.cell.com/current-biology/fulltext/S0960-9822(13)00332-1">Humans Have an Expectation That Gaze Is Directed Toward Them</a></strong> - Many animals use cues from another animal’s gaze to help distinguish friend from foe. In humans, the direction of someone’s gaze provides insight into their focus of interest and state of mind [4] and there is increasing evidence linking abnormal gaze behaviors to clinical conditions such as schizophrenia and autism. This fundamental role of another’s gaze is buoyed by the discovery of specific brain areas dedicated to encoding directions of gaze in faces [12, 13, 14]. Surprisingly, however, very little is known about how others’ direction of gaze is interpreted. Here we apply a Bayesian framework that has been successfully applied to sensory and motor domains to show that humans have a prior expectation that other people’s gaze is directed toward them. This expectation dominates perception when there is high uncertainty, such as at night or when the other person is wearing sunglasses. We presented participants with synthetic faces viewed under high and low levels of uncertainty and manipulated the faces by adding noise to the eyes. Then, we asked the participants to judge relative gaze directions. We found that all participants systematically perceived the noisy gaze as being directed more toward them. This suggests that the adult nervous system internally represents a prior for gaze and highlights the importance of experience in developing our interpretation of another’s gaze.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.quora.com/I-never-want-to-leave-the-house-or-get-dressed-But-I-feel-lonely-and-like-I-m-missing-out-on-life-Am-I-depressed">I never want to leave the house or get dressed. But I feel lonely and like I’m missing out on life. Am I depressed?</a></strong> -</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00975/full#B51">Invisibility and interpretation</a></strong> - Invisibility is often thought to occur because of the low-level limitations of the visual system. For example, it is often assumed that backward masking renders a target invisible because the visual system is simply too slow to resolve the target and the mask separately. Here, we propose an alternative explanation in which invisibility is a goal rather than a limitation and occurs naturally when making sense out of the plethora of incoming information. For example, we present evidence that (in)visibility of an element can strongly depend on how it groups with other elements. Changing grouping changes visibility. In addition, we will show that features often just appear to be invisible but are in fact visible in a way the experimenter is not aware of.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://en.wikipedia.org/wiki/Invisibility_in_fiction">Invisibility in fiction</a></strong> - Invisibility in fiction is a common plot device in stories, plays, films, animated works, video games, and other media, found in both the fantasy and science fiction genres. In fantasy, invisibility is often invoked and dismissed at will by a person, with a magic spell or potion, or a cloak, ring or other object. Alternatively, invisibility may be conferred on an unsuspecting person by a sorcerer, witch, or curse. In science fiction, invisibility is often conferred on the recipient as part of a complex technological or scientific process that is difficult or impossible to reverse, so that switching back and forth at frequent intervals is less likely to be depicted in science fiction. Depending on whether the science fiction is hard science fiction or soft science fiction, the depictions of invisibility may be more rooted in actual or plausible technologies (such as depictions of technologies to make a vessel not appear on detection equipment), or more on the fictional or speculative end of the spectrum.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://en.wikipedia.org/wiki/Optogenetics">Optogenetics</a></strong> - Optogenetics is a biological technique to control the activity of neurons or other cell types with light. This is achieved by expression of light-sensitive ion channels, pumps or enzymes specifically in the target cells. On the level of individual cells, light-activated enzymes and transcription factors allow precise control of biochemical signaling pathways. In systems neuroscience, the ability to control the activity of a genetically defined set of neurons has been used to understand their contribution to decision making, learning, fear memory,[4] mating, addiction, feeding, and locomotion. In a first medical application of optogenetic technology, vision was partially restored in a blind patient.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.scientificamerican.com/article/optogenetics-controlling/">Optogenetics - Controlling the Brain with Light [Extended Version]</a></strong> - In this web exclusive, the author offers a longer version of his December 2010 Scientific American article on how researchers can probe how the nervous system works in unprecedented detail, using a technique called optogenetics</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.scientifica.uk.com/learning-zone/optogenetics-shedding-light-on-the-brains-secrets">Optogenetics - Shedding light on the brain’s secrets</a></strong> - Optogenetics is a modern research tool that gives neuroscientists an incredible ability to control neurons. It is a method of neuromodulation, which utilises genetic engineering; neurons are modified to express light-sensitive ion channels, enabling them to be specifically controlled using light.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.reddit.com/r/introvert/">Reddit r/introvert</a></strong> -</p>
+  </li>
+  <li>
+    <p><strong><a href="https://opentextbc.ca/introductiontopsychology/chapter/4-2-seeing/">Seeing</a></strong> - Whereas other animals rely primarily on hearing, smell, or touch to understand the world around them, human beings rely in large part on vision. A large part of our cerebral cortex is devoted to seeing, and we have substantial visual skills. Seeing begins when light falls on the eyes, initiating the process of transduction. Once this visual information reaches the visual cortex, it is processed by a variety of neurons that detect colours, shapes, and motion, and that create meaningful perceptions out of the incoming stimuli.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://en.wikipedia.org/wiki/Social_contract">Social Contract</a></strong> - In moral and political philosophy, the social contract is a theory or model that originated during the Age of Enlightenment and usually concerns the legitimacy of the authority of the state over the individual. Social contract arguments typically are that individuals have consented, either explicitly or tacitly, to surrender some of their freedoms and submit to the authority (of the ruler, or to the decision of a majority) in exchange for protection of their remaining rights or maintenance of the social order.[2][3] The relation between natural and legal rights is often a topic of social contract theory. The term takes its name from The Social Contract, a 1762 book by Jean-Jacques Rousseau that discussed this concept. Although the antecedents of social contract theory are found in antiquity, in Greek and Stoic philosophy and Roman and Canon Law, the heyday of the social contract was the mid-17th to early 19th centuries, when it emerged as the leading doctrine of political legitimacy.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://exploringyourmind.com/the-fears-that-make-us-invisible/">The Fears that Make Us Invisible</a></strong> - In our childhood, we used to live virtually without fears, shame or worries. We trusted in ourselves and in our abilities. That’s why we shone. However, as we grew into adulthood, our self-confidence started to wane. To the point of us wanting to be almost invisible.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://en.wikipedia.org/wiki/The_Invisible_Man">The Invisible Man</a></strong> - The Invisible Man is a science fiction novel by H. G. Wells. Originally serialized in Pearson’s Weekly in 1897, it was published as a novel the same year. The Invisible Man to whom the title refers is Griffin, a scientist who has devoted himself to research into optics and who invents a way to change a body’s refractive index to that of air so that it neither absorbs nor reflects light. He carries out this procedure on himself and renders himself invisible, but fails in his attempt to reverse it. A practitioner of random and irresponsible violence, Griffin has become an iconic character in horror fiction.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.thecut.com/article/the-psychology-of-feeling-like-youre-being-watched.html">The Psychological Explanation for When You Feel Like You’re Being Watched</a></strong> - You’re sitting on a nearly empty subway car at night, engrossed in your book or your Instagram feed or whatever you do to pass the time on your commute. You reach a stop, you hear the doors slide open and shut, and the train carries on its way. After a few minutes, your neck begins to stiffen and tense, and a tingling sensation begins to spread — and you can’t explain how you know, but you just know that it’s because of someone else’s gaze. You look up and, sure enough, someone across the car is looking right at you. Your eyes meet briefly, then you look away, slightly spooked. You feel too uncomfortable to check again to see if the stranger is still staring, but your body tells you she is; your neck continues to tingle, as if her eyes are brushing it up and down.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.nature.com/articles/nature.2015.17402">The moral challenge of invisibility</a></strong> - We have all had those moments of social embarrassment you’ve just said or done the dumbest thing, everyone is looking at you, and you wish you could just — well, vanish. But would it help if you really could?</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7546459/">The physical health impacts of incarceration in solitary confinement</a></strong> - We examine how solitary confinement correlates with self-reported adverse physical health outcomes, and how such outcomes extend the understanding of the health disparities associated with incarceration. Using a mixed methods approach, we find that solitary confinement is associated not just with mental, but also with physical health problems. Given the disproportionate use of solitary among incarcerated people of color, these symptoms are most likely to affect those populations. Drawing from a random sample of prisoners (n = 106) in long-term solitary confinement in the Washington State Department of Corrections in 2017, we conducted semi-structured, in-depth interviews; Brief Psychiatric Rating Scale (BPRS) assessments; and systematic reviews of medical and disciplinary files for these subjects. We also conducted a paper survey of the entire long-term solitary confinement population (n = 225 respondents) and analyzed administrative data for the entire population of prisoners in the state in 2017 (n = 17,943). Results reflect qualitative content and descriptive statistical analysis. BPRS scores reflect clinically significant somatic concerns in 15% of sample. Objective specification of medical conditions is generally elusive, but that, itself, is a highly informative finding. Using subjective reports, we specify and analyze a range of physical symptoms experienced in solitary confinement, skin irritations and weight fluctuation associated with the restrictive conditions of solitary confinement; un-treated and mis-treated chronic conditions associated with the restrictive policies of solitary confinement; musculoskeletal pain exacerbated by both restrictive conditions and policies. Administrative data analyses reveal disproportionate rates of racial/ethnic minorities in solitary confinement. This analysis raises the stakes for future studies to evaluate comparative prevalence of objective medical diagnoses and potential causal mechanisms for the physical symptoms specified here, and for understanding differential use of solitary confinement and its medically harmful sequelae.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.theguardian.com/science/2014/jul/19/vanishing-point-five-ways-to-become-invisible">Vanishing point - five ways to become invisible</a></strong> - Here is how you could become invisible in the middle ages - grind up an owl’s eye with a ball of beetle dung and some olive oil, and rub it all over your body. There’s no record that this method was ever tried, so I guess we don’t actually know if it works. But it’s a relief that modern science and technology now supply some choices, even if none are perfect. Here are five of them.</p>
+  </li>
+  <li>
+    <p><strong><a href="https://en.wikipedia.org/wiki/Ways_of_Seeing">Ways of Seeing</a></strong> - Ways of Seeing is a 1972 television series of 30-minute films created chiefly by writer John Berger and producer Mike Dibb. It was broadcast on BBC Two in January 1972 and adapted into a book of the same name. The series was intended as a response to Kenneth Clark’s Civilisation TV series, which represents a more traditionalist view of the Western artistic and cultural canon, and the series and book criticise traditional Western cultural aesthetics by raising questions about hidden ideologies in visual images. According to James Bridle, Berger “didn’t just help us gain a new perspective on viewing art with his 1972 series Ways of Seeing – he also revealed much about the world in which we live. Whether exploring the history of the female nude or the status of oil paint, his landmark series showed how art revealed the social and political systems in which it was made. He also examined what had changed in our ways of seeing in the time between when the art was made and today.”</p>
+  </li>
+  <li>
+    <p><strong><a href="https://www.quora.com/Why-don-t-I-like-going-outside">Why don’t I like going outside?</a></strong> -</p>
+  </li>
+  <li>
+    <p><strong><a href="https://bigthink.com/neuropsych/study-finds-our-eyes-are-drawn-to-meaning-not-to-what-sticks-out/">Your Eyes Are Drawn to What’s Meaningful, Not to What “Sticks Out”</a></strong> - Imagine that moment right as you’re viewing a photo you’ve never seen before. How do your eyes go about choosing which parts of the image to look at first? The leading theory in attention studies says that our eyes are drawn to things that are visually salient — or, those that “stick out” to us. However, a new study from UC Davis overturns that model by showing that “meaning” seems to be the primary guider of visual attention, while salience plays a secondary role.</p>
+  </li>
+</ul>
+
+            </div>
+
+        </article>
+
+    </div>
+</div>
+
+
+    <div id="offcanvas-docs" data-uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" data-uk-close></button>
+
+        
+        <h5 class="uk-margin-top">Science</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/research/">Research</a></li>
+        
+        </ul>
+        
+        <h5 class="uk-margin-top">Web</h5>
+        <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href=""></a></li>
+        
+        </ul>
+        
+
+    </div>
+</div>
+
+
+    <div id="offcanvas" data-uk-offcanvas="flip: true; overlay: true">
+    <div class="uk-offcanvas-bar">
+
+        <a class="uk-logo uk-margin-small-bottom" href="/">Unseen</a>
+     
+        <button class="uk-offcanvas-close" type="button" data-uk-close></button>
+      
+        <ul class="uk-nav uk-nav-primary uk-margin-top">
+            
+                
+
+                
+
+                
+                    <li><a href="/" >Home</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><a href="/docs/installation/" >docs</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><a href="/blog/" >Blog</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><a href="/changelog-timeline/" >Changelog</a></li>
+                
+            
+                
+
+                
+
+                
+                    <li><div class="uk-navbar-item"><a class="uk-button uk-button-success" href="/contact/" >Contact</a></div></li>
+                
+            
+        </ul>
+
+        <div class="uk-margin-top uk-text-center">
+            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+                
+<div class="uk-first-column">
+    <a href="https://twitter.com/apievangelist" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+<div>
+    <a href="https://www.facebook.com/people/API-Evangelist/100037190996914/" data-uk-icon="icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+
+
+<div>
+    <a href="https://www.linkedin.com/in/kinlane/" data-uk-icon="icon: linkedin" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+<div>
+    <a href="https://www.youtube.com/c/postman" data-uk-icon="icon: youtube" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+<div>
+    <a href="https://github.com/api-evangelist" data-uk-icon="icon: github" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+    
+        <footer class="uk-section uk-text-center uk-text-muted">
+    <div class="uk-container uk-container-small">
+
+        <div>
+            <ul class="uk-subnav uk-flex-center">
+                
+                    
+                    
+                    
+                        <li><a href="/" >Home</a></li>
+                    
+                
+                    
+                    
+                    
+                        <li><a href="/blog/" >Blog</a></li>
+                    
+                
+                    
+                    
+                    
+                        <li><a href="/contact/" >Contact</a></li>
+                    
+                
+            </ul>
+        </div>
+        <div class="uk-margin-medium">
+            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+                
+<div class="uk-first-column">
+    <a href="https://twitter.com/apievangelist" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+<div>
+    <a href="https://www.facebook.com/people/API-Evangelist/100037190996914/" data-uk-icon="icon: facebook" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+
+
+<div>
+    <a href="https://www.linkedin.com/in/kinlane/" data-uk-icon="icon: linkedin" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+<div>
+    <a href="https://www.youtube.com/c/postman" data-uk-icon="icon: youtube" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+<div>
+    <a href="https://github.com/api-evangelist" data-uk-icon="icon: github" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+            </div>
+        </div>
+        <div class="uk-margin-medium uk-text-small copyright link-secondary">Made by <a href="https://unbound.studio/">Unbound Studio</a> in Cleveland.</div>
+
+    </div>
+</footer>
+
+    
+
+    
+
+    
+
+    </body>
+
+</html>

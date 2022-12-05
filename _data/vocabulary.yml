@@ -7,4 +7,84 @@
 - name: Neglect
   description: Fail to care for properly or the state or fact of being uncared for.
 - name: Transparency
-  description:   
+  description: The condition of being transparent.
+- name: Optogenetics
+  description: Optogenetics is an elegant approach of precisely controlling and monitoring the biological functions of a cell, group of cells, tissues, or organs with high temporal and spatial resolution by using optical system and genetic engineering technologies
+- name: Refraction
+  description: Refraction is the bending of light (it also happens with sound, water and other waves) as it passes from one transparent substance into another. This bending by refraction makes it possible for us to have lenses, magnifying glasses, prisms and rainbows. Even our eyes depend upon this bending of light. 
+- name: Foveating
+  description: When the eye focuses on something, that’s called foveating.
+- name: Photopsin
+  description: Cones have a pigment-protein pair called photopsin (Foh-TOP-sin). It comes in three different types, and each cone has just one type. They come in red, green or blue — the colors that each cone type is best at absorbing. Cones respond to light that has passed through the lens and onto the fovea. As each cone absorbs its color of light, it produces an electrical signal. These signals travel to the brain, filling our worlds with color
+- name: biological clock
+  description: A mechanism present in all life forms that controls when various functions such as metabolic signals, sleep cycles or photosynthesis should occur.
+- name: Body Clock
+  description: A mechanism present in all life forms that controls when various functions such as metabolic signals, sleep cycles or photosynthesis should occur.
+- name: Cell
+  description: The smallest structural and functional unit of an organism. Typically too small to see with the unaided eye, it consists of a watery fluid surrounded by a membrane or wall. Depending on their size, animals are made of anywhere from thousands to trillions of cells. Most organisms, such as yeasts, molds, bacteria and some algae, are composed of only one cell.
+- name: Chemical
+  description: A substance formed from two or more atoms that unite (bond) in a fixed proportion and structure. For example, water is a chemical made when two hydrogen atoms bond to one oxygen atom. Its chemical formula is H2O. Chemical also can be an adjective to describe properties of materials that are the result of various reactions between different compounds.
+- name: Cones
+  description: (in biology) A type of eye cell that is part of the retina inside the back of the eye. These cells can sense red, green or blue light. Recent research has uncovered evidence that many can sense white light — but only white light.
+- name: Cornea
+  description: The transparent front section of the eye. The shape of the cornea allows our eyes to bring objects at many distances into focus.
+- name: Focus
+  description: (In vision, verb, "to focus") The action a person's eyes take to adapt to light and distance, enabling them to see objects clearly. (in behavior) To look or concentrate intently on some particular point or thing.
+- name: Fovea
+  description: A small depression at the center back of the eye's retina. Color-sensing cone cells are especially concentrated here. The fovea also is the site of peak visual acuity.
+- name: Lens
+  description: (in biology) A transparent part of the eye behind the colored iris that focuses incoming light onto the light-absorbing membrane at the back of the eyeball. (in physics) A transparent material that can either focus or spread out parallel rays of light as they pass through it..
+- name: Melanopsin ganglion cells
+  description: Light-sensitive cells in the eye that send signals to the olivary pretectal nucleus. The signals regulate the size of the eye’s pupil, and help control the body clock.
+- name: Molecule
+  description: An electrically neutral group of atoms that represents the smallest possible amount of a chemical compound. Molecules can be made of single types of atoms or of different types. For example, the oxygen in the air is made of two oxygen atoms (O2), but water is made of two hydrogen atoms and one oxygen atom (H2O).
+- name: Nerve
+  description: A long, delicate fiber that transmits signals across the body of an animal. An animal’s backbone contains many nerves, some of which control the movement of its legs or fins, and some of which convey sensations such as hot, cold or pain.
+- name: Nucleus
+  description: Plural is nuclei. (in biology) A dense structure present in many cells. Typically a single rounded structure encased within a membrane, the nucleus contains the genetic information. (in astronomy) The rocky body of a comet, sometimes carrying a jacket of ice or frozen gases. (in physics) The central core of an atom, containing most of its mass.
+- name: Occipital Cortex
+  description: An area of the brain at the back of the skull that processes visual information from the eyes.
+- name: Olivary Pretectal Nucleus
+  description: A small group of cells in the center of the brain, at the base. These cells control how big the pupils of your eyes are, and how much light they let in. They also help tell the body what time it is.
+- name: Opsin
+  description: A light-sensing protein that is usually found in a part of the eye called the retina.
+- name: Particle
+  description: A minute amount of something.
+- name: Photon
+  description: A particle representing the smallest possible amount of light or other type of electromagnetic radiation.
+- name: Photopsin
+  description: A pigment molecule bound to the light-sensing protein opsin. Photopsins are found in the cone cells of the eye and come in three types — red, blue and green. They also can sense white and black.
+- name: Pigment
+  description: A material, like the natural colorings in skin, that alter the light reflected off of an object or transmitted through it. The overall color of a pigment typically depends on which wavelengths of visible light it absorbs and which ones it reflects. For example, a red pigment tends to reflect red wavelengths of light very well and typically absorbs other colors. Pigment also is the term for chemicals that manufacturers use to tint paint.
+- name: Protein
+  description: A compound made from one or more long chains of amino acids. Proteins are an essential part of all living organisms. They form the basis of living cells, muscle and tissues; they also do the work inside of cells. Among the better-known, stand-alone proteins are the hemoglobin (in blood) and the antibodies (also in blood) that attempt to fight infections. Medicines frequently work by latching onto proteins.
+- name: Pupil
+  description: The dark center of an eye. The pupil is actually a hole in the eye that allows light to pass through and hit the retina, the part of our eye that is sensitive to light.
+- name: Receptor
+  description: A molecule in cells that serves as a docking station for another molecule. That second molecule can turn on some special activity by the cell.
+- name: Retina
+  description: A layer at the back of the eyeball containing cells that are sensitive to light and that trigger nerve impulses that travel along the optic nerve to the brain, where a visual image is formed.
+- name: Rhodopsin
+  description: A combination of a pigment molecule and the light-sensing protein opsin. Rhodopsins are found in the red cells of the eye. They are extremely sensitive to light, but cannot sense color.
+- name: Rods
+  description: (in biology) A type of eye cell that is part of the retina inside the back of the eye. These cells are rod shaped and sensitive to light. Although more sensitive to light than cone cells are, rods can not tell what color something is.
+- name: Tissue
+  description: Made of cells, it is any of the distinct types of materials that make up animals, plants or fungi. Cells within a tissue work as a unit to perform a particular function in living organisms. Different organs of the human body, for instance, often are made from many different types of tissues.
+- name: Transmit
+  description: To send or pass along.
+- name: transparent
+  description: Allowing light to pass through so that objects behind can be distinctly seenW
+- name: wavelength
+  description: The distance between one peak and the next in a series of waves, or the distance between one trough and the next. It’s also one of the “yardsticks” used to measure radiation. Visible light — which, like all electromagnetic radiation, travels in waves — includes wavelengths between about 380 nanometers (violet) and about 740 nanometers (red).    
+- name: Gestalt
+  description: An organized whole that is perceived as more than the sum of its parts.
+- name: Quiet Quitting
+  description: Quiet quitting from their main job by doing the bare minimum, to free up more time for their own projects. 
+- name: Social Contract
+  description: An implicit agreement among the members of a society to cooperate for social benefits, for example by sacrificing some individual freedom for state protection.
+- name: Scopaesthesia
+  description: The psychic staring effect (sometimes called scopaesthesia) is a supposed phenomenon in which humans detect being stared at by extrasensory means.
+- name: Gaze
+  description: Look steadily and intently, especially in admiration, surprise, or thought, as well as a steady intent look.
+- name: Sclera
+  description: The white outer layer of the eyeball. At the front of the eye it is continuous with the cornea. 
