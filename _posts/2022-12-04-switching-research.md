@@ -1,5 +1,5 @@
 ---
-title: Switching Research
+title: Switching Research From Prison to Sex Work
 author: kinlane
 categories:
   - Research

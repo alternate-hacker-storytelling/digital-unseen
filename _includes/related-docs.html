@@ -1,25 +1,30 @@
-<div class="uk-margin-large-top">
-    <h3>{{ site.data.translation[site.lang].related_docs | default: "Related Docs" }}</h3>
 
-    {% assign maxRelated = 4 %}
+
+    {% assign maxRelated = 5 %}
     {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
-
-    <ul class="uk-list link-secondary">
+    {% assign first = 0 %}
+    
     {% for doc in site.docs %}
 
     {% assign sameTagCount = 0 %}
     {% assign commonTags = '' %}
 
-    {% for tag in doc.tags %}
+    {% for category in doc.categories %}
         {% if doc.url != page.url %}
-            {% if page.tags contains tag %}
+            {% if page.categories contains category %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
             {% endif %}
         {% endif %}
     {% endfor %}
-
+    
     {% if sameTagCount >= minCommonTags %}
+        {% if first == 0 %}
+        <div class="uk-margin-large-top">
+            <h3>{{ site.data.translation[site.lang].related_docs | default: "Outline" }}</h3>        
+            <ul class="uk-list link-secondary">
+            {% assign first = 1 %}
+        {% endif %}        
         <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a></li>
         {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
         {% if maxRelatedCounter >= maxRelated %}
@@ -28,5 +33,4 @@
     {% endif %}
 
     {% endfor %}
-    </ul>
-</div>
+    {% if first == 1 %}</ul></div>{% endif %}

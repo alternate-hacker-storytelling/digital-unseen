@@ -4,6 +4,7 @@ author: kinlane
 categories:
   - Seed
   - Context
+  - Overview
 ---
 We never quite fully understood our physical self before we set out defining our digital self. There appears to be a lot more to our physical self than what we knew, and with 60% of the population suffering from what has been dubbed, “Marty McFly Syndrome”, we are unsure if we will ever actually fully be able to reverse the clock. The syndrome has nothing to do with time travel, or changing the course of time (maybe), it has more do with the role that being seen by others plays into the physical definition of who we truly are.
 

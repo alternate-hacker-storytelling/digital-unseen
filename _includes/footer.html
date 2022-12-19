@@ -8,7 +8,7 @@
                         {% assign domain = '' %}
                     {% else %}
                         {% assign domain = '' | relative_url %}
-                    {% endif %}
+                    {% endif %} 
                     {% if link.url == page.url %}
                         {% assign current = ' class="uk-active"' %}
                     {% else %}
@@ -20,12 +20,6 @@
                 {% endfor %}
             </ul>
         </div>
-        <div class="uk-margin-medium">
-            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
-                {% include social-networks.html %}
-            </div>
-        </div>
-        <div class="uk-margin-medium uk-text-small copyright link-secondary">{{ site.footer.copyright }}</div>
-
+        <div class="uk-margin-medium uk-text-small copyright link-secondary"><a href="https://kinlane.com" target="_blank">Kin Lane</a></div>
     </div>
 </footer>

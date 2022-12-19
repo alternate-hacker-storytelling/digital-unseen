@@ -1,11 +1,10 @@
-<div class="uk-margin-large-top">
-    <h3>{{ site.data.translation[site.lang].related_posts | default: "Related Posts" }}</h3>
 
-    {% assign maxRelated = 4 %}
+
+    {% assign maxRelated = 5 %}
     {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
-
-    <ul class="uk-list link-secondary">
+    {% assign first = 0 %}
+    
     {% for post in site.posts %}
 
     {% assign sameTagCount = 0 %}
@@ -18,8 +17,14 @@
             {% endif %}
         {% endif %}
     {% endfor %}
-
+    
     {% if sameTagCount >= minCommonTags %}
+        {% if first == 0 %}
+        <div class="uk-margin-large-top">
+            <h3>Posts</h3>        
+            <ul class="uk-list link-secondary">
+            {% assign first = 1 %}
+        {% endif %}        
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
         {% if maxRelatedCounter >= maxRelated %}
@@ -28,5 +33,4 @@
     {% endif %}
 
     {% endfor %}
-    </ul>
-</div>
+    {% if first == 1 %}</ul></div>{% endif %}

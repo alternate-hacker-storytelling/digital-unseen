@@ -2,177 +2,402 @@
 
 - title: Researcher
   notes: Researcher is studying online sex workers and finds a group that is embracing their invisible state, and learns from one of them about the "Unseen".
+  categories:
+    - Research
 
 - title: Sex Worker Meeting
   notes: The first sex worker the researcher tries to meet in person doesn't get seen while meeting in the park, and the second is in the unseen and refuses to be seen.
+  categories:
+    - Research
+    - Meeting
 
 - title: The Cure
   notes: Being seen in parks, on the streets, in shopping malls, at gatherings--ultimately being a human being.
-
+  categories:
+    - Research
+    - Cure
+    
 - title: Disabled Gathering in Park
   notes: The disabled gathering in the park to be seen results in more city investment in infrastructure and feeds a loop where disabled are then more seen.
-
+  categories:
+    - Parks
+    - Public
+    
 - title: Careful What You See
   notes: What has been seen cannot be unseen.
-
+  categories:
+    - Sight
+    - Head
+    
 - title: Nighttime
   notes: The unseen prefer the night and walking in the shadows as it provides camaflouge.
-
+  categories:
+    - Night
+    
 - title: Dusk
   notes: Right at dusk is the perfect time to blend in and not be seen as it hides the refelction.
-
+  categories:
+    - Night
+    
 - title: Family
   notes: Your family doesn't see you because you play games all the time and stay up late, never coming out during the day and socializing--so when you do you aren't seen.
-
+  categories:
+    - Family
+    
 - title: Cars Hitting Pedestrians
   notes: The number of pedestrians being hit by cars is up significantly showing people aren't seen.
-
+  categories:
+    - Death
+    - Crimes
+    
 - title: Invisible to Husband
   notes: Your husband doesn't see you when they come home, walking right past you and doing what they want.
-
+  categories:
+    - Family
+    
 - title: Digital Obfuscation
   notes: Condition is acclerated using icognito, Tor, or other digital obfuscation.
-
+  categories:
+    - Digital
+    
 - title: Latina Housekeeper
   notes: Read novels, works in the cracks, avoids people because her family is undocumented.
-
+  categories:
+    - Labor
+    - Work
+    
 - title: Where do you feel invisible?
   notes: Crossing street, malls, stores, politics, beuracracy, family, restaurants, work, office.
-
+  categories:
+    - Invisible
+    
 - title: Young Black Man
   notes: A young black man whose single mom moved to a white town. He doesn't want to be seen. Plays games. Stays at home.
-
+  categories:
+    - Race
+    
 - title: School Shooter
   notes: Show up at school through usual route by gym so nobody will see you and a school shooter bursts into hallway and doesn't even see you standing there.
-
+  categories:
+    - Schools
+    - Violence
+    - Fears
+    
 - title: Benefits of Invisibility
   notes: There are definitely upsides to not being seen, something many are enjoying, but there are limitations to these benefits.
-
+  categories:
+    - Invisible
+    - Benefits
+    
 - title: Downside of Invisibility
   notes: There are numerous downsides, and very unnerving aspects of not being see, which can forever change how you live your life.
-
+  categories:
+    - Invisible
+    
 - title: Facial Recognition Stops Working
   notes: When you are disappearing facial recognition is tripped up and has trouble seeing your features.  
-
+  categories:
+    - Surveillance
+    - Facial Recognition
+    
 - title: Security Cameras
   notes: You are difficul to see on security cameras and become just a blur, which is why the unseen really enjoy their state when it comes to crimes.
-
+  categories:
+    - Surveillance
+    
 - title: Back in Office After Covid
   notes: Nobody sees you as you walk by the meeting room when in the office and you make eye contact.
-
+  categories:
+    - Labor
+    - Work
+    
 - title: Unseen Seeing Each Other
   notes: They do not see each other and avoid being put in situations where they see each other. How does it work when people live with each other as roomates?
-
+  categories:
+    - People
+    
 - title: The Unseen
   notes: Group that understand what is happening and is leveraging to get rich by coordinating online and robbing small and large things.    
-
+  categories:
+    - People
+    
 - title: The Unseen
   notes: Disappear, cease to exist, or to be of use. Not seen or noticed.
-
+  categories:
+    - People
+    
 - title: The Marginalized
   notes: Orphans, disabled, elderly.
-
+  categories:
+    - People
+    - Marginalized
+    - Underrepresented
+    
 - title: The Homeless
   notes: They are out in the open but not seen by peopole.
-
+  categories:
+    - People
+    - Homes
+    - Class
+    
 - title: Above the 5th Floor
   notes: You live up high and yoiu see, but aren't seen.
-
+  categories:
+    - Class
+    - Homes
+    
 - title: Drive Throughs
   notes: People use drive through and aren't seen by workers.
-
+  categories:
+    - Food
+    
 - title: Vending Machines
   notes: People prefer to use vending and self-service machines so they aren't seen.
-
+  categories:
+    - Food
+    - Products
+    - Shopping
+    
 - title: The Machine
   notes: We are loost in digital buracracy, automation, and technology.
-
+  categories:
+    - Machine
+    
 - title: Icongito Mode
   notes: You are offline by not offline -- speeds up thejourney.
-
+  categories:
+    - Privacy
+    - Digital
+    
 - title: Junkies
   notes: How do junkies fit in with this and benefit or worse off.
-
+  categories:
+    - Addiction
+    - Drugs
+    
 - title: Mental Health
   notes: Depression, anxiety, and insecurity.
-
+  categories:
+    - Mental Health
+    
 - title: Relationships
   notes: Humans are not just social animals, they are so intrinsically social that if they are cut off from relations with other humans they begin to decay physically -- Prisoners in solitary confiment.
-
+  categories:
+    - People
+    - Relationships
+    - Family
+    
 - title: Slow Roll Digital Singularity
   notes: Slowly traiding your phsycial for your virtual.
-
+  categories:
+    - Digital
+    - Self
+    
 - title: Convenience
   notes: We have traded ourselves away for easy, and now we don't matter.
-
+  categories:
+    - Products
+    - Shopping
+    
 - title: No Purpose
   notes: No purpose of meaning in information jobs -- career -- and our identiy is all wrapped up in our jobs.  
-
-- title: Showds in the Forward March of Time
+  categories:
+    - Heads
+    
+- title: Stuck in the Forward March of Time
   notes: We are so used to living by our calendars that we do not see things outside of that.
-
+  categories:
+    - Heads
+    
 - title: Couples
   notes: Can you be a couple and still be unseen?
-
+  categories:
+    - People
+    - Family
+    
 - title: Indigenous Woman
   notes: Escaping danger because she isn't seen.
-
+  categories:
+    - Indigenous
+    
 - title: Racism
   notes: How does racism play in?
-
+  categories:
+    - Race
+    
 - title: Misogyny 
   notes: How does sexism play into?
-
+  categories:
+    - Misogyny
+    - Sexism
+    - Fears
+    
 - title: Class
   notes: How does class fit in with the picture.
-
+  categories:
+    - Class
+    - Labor
+    - Work
+    
 - title: Gender
   notes: How does gender fit in with this?
-
+  categories:
+    - Gender
+    
 - title: Eyes Smelling Light
   notes: We are just smelling the light from each other and the more we smell the more we see.
-
+  categories:
+    - Science
+    - Light
+    - Senses
+    
 - title: Augmented Reality
   notes: What does spending more time in an augmented reality to do how others see us?
-  
+  categories:
+    - Digital
+    - Augmented
+      
 - title: Moral Decision Making
   notes: With this new technique for inducing the sensation of invisibility, scientists may actually be able to test this hypothesis.  "Follow-up studies should also investigate whether the feeling of invisibility affects moral decision-making, to ensure that future invisibility cloaking does not make us lose our sense of right and wrong, which Plato asserted over two millennia ago," said the report's co-author, Henrik Ehrsson.  
-
+  categories:
+    - Heads
+    - People
+    
 - title: Online In Our Eyes
   notes: What effect does the rest of us being online make it hard to see others who spend more time online?
-
+  categories:
+    - Digital
+    - Heads
+    
 - title: Contactless During Covid
   notes: How has an investment in contactless during covid make this worse?
-
+  categories:
+    - Digital
+    - Covid
+    
 - title: Social Campaign
   notes: Create little memes that ask peopel where they feel unseen?
-
+  categories:
+    - Social
+    - Campaign
+    - Research
+    
 - title: Quiet Quitting
   notes: Overlap stories with quiet quitting.
-
+  categories:
+    - Labor
+    - Work
+    
 - title: Being Unseen Changes Behavior
   notes: It impacts what we wear, how move through crowds, how we don't look people in the eyes.
-
+  categories:
+    - Behavior
+    - People
+    - Invisible
+    
 - title: CIA Playbook
   notes: Find CIA manuals for blending in and not being seen and weave into the playbook for the unseen.
-
+  categories:
+    - Surveillance
+    - Policing
+    - Fears
+    
 - title: Retina Rods
   notes: The retina’s rod cells aren’t part of the cone coloring system. They work when light levels are low. Instead of photopsins, rods have a different pigment-protein pair -- rhodopsin (Roh-DOP-sin). Rods produce images only in shades of grey. But they are much more sensitive to light than cones are. They are so sensitive that a rod cell can detect a single photon of light — the smallest possible particle.
-
+  categories:
+    - Science
+    
 - title: Invisible When Nobody Is Looking
   notes: Play on the character from Mystery Men.
-  
+  categories:
+    - Invisible
+      
 - title: Bright Colors and Patterns
   notes: Wearing bright colors and patterns will increase the response from those looking at you.
-
-- title: How You Feel ABout Someone Plays a Role in Being Seen
-  notes: Making it a memorable experience to be seen will increase the amount you are visible.
+  categories:
+    - Sight
+    - Colors
     
+- title: How You Feel About Someone Plays a Role in Being Seen
+  notes: Making it a memorable experience to be seen will increase the amount you are visible.
+  categories:
+    - People
+    - Emotion
+    - Race
+    - Fears
+        
 - title: Feeling Someoneo is Watching You
   notes: That feeling someone is watching you.   
-
+  categories:
+    - Sight
+    - Surveillance
+    - Fears
+    
 - title: Gaze detection
   notes: Various studies have explored the reliability with which humans can visually detect gazes from other individuals. Brain imaging has shown that the brain cells which are activated when a test subject can see that they are being stared at are distinct from the cells activated when the starer's eyes are averted away from the subject by just a few degrees[citation needed]. It is theorized that the ability to precisely detect the target of a starer's gaze has conferred an evolutionary advantage by improving threat detection capabilities, as well as facilitating nonverbal communication. Compared to the eyes of other animals, the uniquely visible and well-defined sclera and iris of human eyes provides further evidence of its evolutionary importance for the species, and are thought to have developed as humans became more reliant upon complex communication for survival and reproductive success.
-  
+  categories:
+    - Sight
+    - People
+      
 - title: Catching Gaze of Others
   notes: “It's not just our brains that are specialized to draw us to the gaze of others,” Dempsey Jones wrote. “Our eyes are also exceptionally formed to catch attention and easily reveal the direction of gaze.” Human eyes are distinctive from the eyes of almost any other species in that we have a large white area around our pupils and irises, known as the sclera. As Dempsey-Jones noted, the sclera may make it easier for one human to detect the direction of the gaze of another. Why is this important? In a word, communication.
+  categories:
+    - Sight
+    - People
+
+- title: Jacques Derrida, in The Animal that Therefore I Am
+  notes: Jacques Derrida, in The Animal that Therefore I Am (More to Come) (1997), elaborated upon the inter-species relations that exist among human beings and other animals, which are established by way of the gaze.
+  categories:
+    - History
+    - Philosphy
+    - Relations
+
+- title: Michel Foucault, in Discipline and Punish
+  notes: The Birth of the Prison (1975), developed the concept of the gaze to illustrate the dynamics of socio-political power relations and the social dynamics of society's mechanisms of discipline.
+  categories:
+    - Power
+    - Politics          
+
+- title: Being and Nothingness
+  notes: Jean-Paul Sartre described the gaze (or "the look") in Being and Nothingness (1943)
+  categories:
+    - Gaze
+    - Look      
+
+- title: Invisible Bureaucracy
+  notes: How invisible bureaucracy is and ow invisible your pain and suffering can seem within it.
+  categories:
+    - Government
+    - Corporations  
+    - Bureaucracy     
+
+- title: Fake Owl Watching
+  notes: How the gaze of the owl is endlessly watching for pigeons and how it almost doesn't matter anymore.
+  categories:
+    - Pigeons
+    - Owls  
+    - Fake        
+
+- title: Giving Them Power Over Us
+  notes: To be entrained to the activities of people or institutions often means that they have power over us, compelling us to rush, wait or both.
+  categories:
+    - Activities
+    - People  
+    - Institutions   
+
+- title: The Social Frame Rate
+  notes:  It seemed that the more I used these platforms, the more I got psychologically adjusted to a certain social frame rate — one that happened to be ticking by with constant developments and quickly evolving outrage.
+  categories:
+    - Social
+    - Platforms  
+    - Psychologically   
+    - Social Frame Rate
+
+- title: Losing Substance, Color, and Texture
+  notes: Most haunting was a sense that I had no substance, and that the physical world, with all its minute fluctuations and gradual changes, was somehow losing its color and texture.    
+  categories:
+    - Substance
+    - Color  
+    - Texture   
+    - Fluctuations
+    - Changes

@@ -1,72 +1,149 @@
 - name: Invisibility and interpretation
   description: Invisibility is often thought to occur because of the low-level limitations of the visual system. For example, it is often assumed that backward masking renders a target invisible because the visual system is simply too slow to resolve the target and the mask separately. Here, we propose an alternative explanation in which invisibility is a goal rather than a limitation and occurs naturally when making sense out of the plethora of incoming information. For example, we present evidence that (in)visibility of an element can strongly depend on how it groups with other elements. Changing grouping changes visibility. In addition, we will show that features often just appear to be invisible but are in fact visible in a way the experimenter is not aware of.
   link: https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00975/full#B51
+  categories:
+    - Invisible
+    - Sight  
 - name: Optogenetics
   description: Optogenetics is a biological technique to control the activity of neurons or other cell types with light. This is achieved by expression of light-sensitive ion channels, pumps or enzymes specifically in the target cells. On the level of individual cells, light-activated enzymes and transcription factors allow precise control of biochemical signaling pathways. In systems neuroscience, the ability to control the activity of a genetically defined set of neurons has been used to understand their contribution to decision making, learning, fear memory,[4] mating, addiction, feeding, and locomotion. In a first medical application of optogenetic technology, vision was partially restored in a blind patient.
   link: https://en.wikipedia.org/wiki/Optogenetics
+  categories:
+    - Science  
 - name: Optogenetics - Shedding light on the brain's secrets
   description: Optogenetics is a modern research tool that gives neuroscientists an incredible ability to control neurons. It is a method of neuromodulation, which utilises genetic engineering; neurons are modified to express light-sensitive ion channels, enabling them to be specifically controlled using light.
   link: https://www.scientifica.uk.com/learning-zone/optogenetics-shedding-light-on-the-brains-secrets
+  categories:
+    - Science    
 - name: Optogenetics - Controlling the Brain with Light [Extended Version]
   description: In this web exclusive, the author offers a longer version of his December 2010 Scientific American article on how researchers can probe how the nervous system works in unprecedented detail, using a technique called optogenetics
   link: https://www.scientificamerican.com/article/optogenetics-controlling/
+  categories:
+    - Science    
 - name: Vanishing point - five ways to become invisible
   description: Here is how you could become invisible in the middle ages - grind up an owl's eye with a ball of beetle dung and some olive oil, and rub it all over your body. There's no record that this method was ever tried, so I guess we don't actually know if it works. But it's a relief that modern science and technology now supply some choices, even if none are perfect. Here are five of them.
   link: https://www.theguardian.com/science/2014/jul/19/vanishing-point-five-ways-to-become-invisible
+  categories:
+    - Invisible    
 - name: The Fears that Make Us Invisible
   description: In our childhood, we used to live virtually without fears, shame or worries. We trusted in ourselves and in our abilities. That’s why we shone. However, as we grew into adulthood, our self-confidence started to wane. To the point of us wanting to be almost invisible.
   link: https://exploringyourmind.com/the-fears-that-make-us-invisible/
+  categories:
+    - Fears    
 - name: Becoming The Invisible Person
   description: The power of invisibility has long fascinated man and inspired the works of many great authors and philosophers. In a study from Sweden’s Karolinska Institutet, a team of neuroscientists today reports a perceptual illusion of having an invisible body and show that the feeling of invisibility changes our physical stress response in challenging social situations.
   link: https://neurosciencenews.com/perception-invisibility-illusion-1992/
+  categories:
+    - Invisible    
 - name: How to Be Invisible
   description: IN one of the most popular ads shown during the Super Bowl last weekend, the Indian-American actress Mindy Kaling thinks she’s become invisible. Cabs pass her by, and men barely look up on the sidewalk. And yet she embraces her invisibility as a kind of liberation. More of us should do the same.
   link: https://www.nytimes.com/2015/02/08/opinion/sunday/how-to-be-invisible.html
+  categories:
+    - Invisible   
 - name: The moral challenge of invisibility
   description: We have all had those moments of social embarrassment you’ve just said or done the dumbest thing, everyone is looking at you, and you wish you could just — well, vanish. But would it help if you really could?
   link: https://www.nature.com/articles/nature.2015.17402
+  categories:
+    - Invisible 
+    - People  
 - name: The Invisible Man
   description: The Invisible Man is a science fiction novel by H. G. Wells. Originally serialized in Pearson's Weekly in 1897, it was published as a novel the same year. The Invisible Man to whom the title refers is Griffin, a scientist who has devoted himself to research into optics and who invents a way to change a body's refractive index to that of air so that it neither absorbs nor reflects light. He carries out this procedure on himself and renders himself invisible, but fails in his attempt to reverse it. A practitioner of random and irresponsible violence, Griffin has become an iconic character in horror fiction.
   link: https://en.wikipedia.org/wiki/The_Invisible_Man
+  categories:
+    - Invisible 
+    - People   
 - name: Invisibility in fiction
   description: Invisibility in fiction is a common plot device in stories, plays, films, animated works, video games, and other media, found in both the fantasy and science fiction genres. In fantasy, invisibility is often invoked and dismissed at will by a person, with a magic spell or potion, or a cloak, ring or other object. Alternatively, invisibility may be conferred on an unsuspecting person by a sorcerer, witch, or curse. In science fiction, invisibility is often conferred on the recipient as part of a complex technological or scientific process that is difficult or impossible to reverse, so that switching back and forth at frequent intervals is less likely to be depicted in science fiction. Depending on whether the science fiction is hard science fiction or soft science fiction, the depictions of invisibility may be more rooted in actual or plausible technologies (such as depictions of technologies to make a vessel not appear on detection equipment), or more on the fictional or speculative end of the spectrum.
   link: https://en.wikipedia.org/wiki/Invisibility_in_fiction
+  categories:
+    - Invisible 
+    - Fiction   
 - name: How our eyes make sense of light
   description: How do your eyes work? It’s far more than just forming a tiny picture in your eye. There’s also color and motion. It takes many cells — and finally the brain — to make sense of it all.
   link: https://www.snexplores.org/article/explainer-how-our-eyes-make-sense-of-light
+  categories:
+    - Science 
+    - Sight   
 - name: Seeing
   description: Whereas other animals rely primarily on hearing, smell, or touch to understand the world around them, human beings rely in large part on vision. A large part of our cerebral cortex is devoted to seeing, and we have substantial visual skills. Seeing begins when light falls on the eyes, initiating the process of transduction. Once this visual information reaches the visual cortex, it is processed by a variety of neurons that detect colours, shapes, and motion, and that create meaningful perceptions out of the incoming stimuli.
   link: https://opentextbc.ca/introductiontopsychology/chapter/4-2-seeing/
+  categories:
+    - Science 
+    - Sight    
 - name: Do our brains see what our eyes see?
   description: There are many optical illusions in our everyday lives, but the reason we see these illusions isn’t just a trick of the eye.
   link: https://www.mcgill.ca/oss/article/student-contributors-general-science/do-our-brains-see-what-our-eyes-see  
+  categories:
+    - Science 
+    - Sight    
 - name: Your Eyes Are Drawn to What’s Meaningful, Not to What “Sticks Out”
   description: Imagine that moment right as you’re viewing a photo you’ve never seen before. How do your eyes go about choosing which parts of the image to look at first? The leading theory in attention studies says that our eyes are drawn to things that are visually salient — or, those that “stick out” to us. However, a new study from UC Davis overturns that model by showing that “meaning” seems to be the primary guider of visual attention, while salience plays a secondary role.
   link: https://bigthink.com/neuropsych/study-finds-our-eyes-are-drawn-to-meaning-not-to-what-sticks-out/   
+  categories:
+    - Science 
+    - Sight    
 - name: Why don’t I like going outside?
   description: 
   link: https://www.quora.com/Why-don-t-I-like-going-outside    
+  categories:
+    - Mental Health
+    - People    
 - name: Reddit r/introvert
   description: 
   link: https://www.reddit.com/r/introvert/   
+  categories:
+    - Mental Health
+    - People   
 - name: Social Contract
   description: In moral and political philosophy, the social contract is a theory or model that originated during the Age of Enlightenment and usually concerns the legitimacy of the authority of the state over the individual. Social contract arguments typically are that individuals have consented, either explicitly or tacitly, to surrender some of their freedoms and submit to the authority (of the ruler, or to the decision of a majority) in exchange for protection of their remaining rights or maintenance of the social order.[2][3] The relation between natural and legal rights is often a topic of social contract theory. The term takes its name from The Social Contract, a 1762 book by Jean-Jacques Rousseau that discussed this concept. Although the antecedents of social contract theory are found in antiquity, in Greek and Stoic philosophy and Roman and Canon Law, the heyday of the social contract was the mid-17th to early 19th centuries, when it emerged as the leading doctrine of political legitimacy.
   link: https://en.wikipedia.org/wiki/Social_contract
+  categories:
+    - Culture
+    - People   
 - name: The Psychological Explanation for When You Feel Like You’re Being Watched
   description: You’re sitting on a nearly empty subway car at night, engrossed in your book or your Instagram feed or whatever you do to pass the time on your commute. You reach a stop, you hear the doors slide open and shut, and the train carries on its way. After a few minutes, your neck begins to stiffen and tense, and a tingling sensation begins to spread — and you can’t explain how you know, but you just know that it’s because of someone else’s gaze. You look up and, sure enough, someone across the car is looking right at you. Your eyes meet briefly, then you look away, slightly spooked. You feel too uncomfortable to check again to see if the stranger is still staring, but your body tells you she is; your neck continues to tingle, as if her eyes are brushing it up and down.
   link: https://www.thecut.com/article/the-psychology-of-feeling-like-youre-being-watched.html
+  categories:
+    - Brains
+    - People   
 - name: Gaze
   description: In critical theory, sociology, and psychoanalysis, the gaze (French le regard), in the philosophical and figurative sense, is an individual's (or a group's) awareness and perception of other individuals, other groups, or oneself. The concept and the social applications of the gaze have been defined and explained by existentialist and phenomenologist philosophers. Jean-Paul Sartre described the gaze (or "the look") in Being and Nothingness (1943).[1] Michel Foucault, in Discipline and Punish. The Birth of the Prison (1975), developed the concept of the gaze to illustrate the dynamics of socio-political power relations and the social dynamics of society's mechanisms of discipline. Jacques Derrida, in The Animal that Therefore I Am (More to Come) (1997), elaborated upon the inter-species relations that exist among human beings and other animals, which are established by way of the gaze.
   link: https://en.wikipedia.org/wiki/Gaze
+  categories:
+    - Sight
+    - Gaze
 - name: Ways of Seeing
   description: Ways of Seeing is a 1972 television series of 30-minute films created chiefly by writer John Berger and producer Mike Dibb. It was broadcast on BBC Two in January 1972 and adapted into a book of the same name. The series was intended as a response to Kenneth Clark's Civilisation TV series, which represents a more traditionalist view of the Western artistic and cultural canon, and the series and book criticise traditional Western cultural aesthetics by raising questions about hidden ideologies in visual images. According to James Bridle, Berger "didn't just help us gain a new perspective on viewing art with his 1972 series Ways of Seeing – he also revealed much about the world in which we live. Whether exploring the history of the female nude or the status of oil paint, his landmark series showed how art revealed the social and political systems in which it was made. He also examined what had changed in our ways of seeing in the time between when the art was made and today."
   link: https://en.wikipedia.org/wiki/Ways_of_Seeing 
+  categories:
+    - Sight
+    - Seeing  
 - name: Humans Have an Expectation That Gaze Is Directed Toward Them
   description: Many animals use cues from another animal’s gaze to help distinguish friend from foe. In humans, the direction of someone’s gaze provides insight into their focus of interest and state of mind [4] and there is increasing evidence linking abnormal gaze behaviors to clinical conditions such as schizophrenia and autism. This fundamental role of another’s gaze is buoyed by the discovery of specific brain areas dedicated to encoding directions of gaze in faces [12, 13, 14]. Surprisingly, however, very little is known about how others’ direction of gaze is interpreted. Here we apply a Bayesian framework that has been successfully applied to sensory and motor domains to show that humans have a prior expectation that other people’s gaze is directed toward them. This expectation dominates perception when there is high uncertainty, such as at night or when the other person is wearing sunglasses. We presented participants with synthetic faces viewed under high and low levels of uncertainty and manipulated the faces by adding noise to the eyes. Then, we asked the participants to judge relative gaze directions. We found that all participants systematically perceived the noisy gaze as being directed more toward them. This suggests that the adult nervous system internally represents a prior for gaze and highlights the importance of experience in developing our interpretation of another’s gaze.
   link: https://www.cell.com/current-biology/fulltext/S0960-9822(13)00332-1  
+  categories:
+    - Sight
+    - Science  
 - name: I never want to leave the house or get dressed. But I feel lonely and like I’m missing out on life. Am I depressed?
   description: 
   link: https://www.quora.com/I-never-want-to-leave-the-house-or-get-dressed-But-I-feel-lonely-and-like-I-m-missing-out-on-life-Am-I-depressed
+  categories:
+    - Mental Health
+    - People  
 - name: The physical health impacts of incarceration in solitary confinement
   description: We examine how solitary confinement correlates with self-reported adverse physical health outcomes, and how such outcomes extend the understanding of the health disparities associated with incarceration. Using a mixed methods approach, we find that solitary confinement is associated not just with mental, but also with physical health problems. Given the disproportionate use of solitary among incarcerated people of color, these symptoms are most likely to affect those populations. Drawing from a random sample of prisoners (n = 106) in long-term solitary confinement in the Washington State Department of Corrections in 2017, we conducted semi-structured, in-depth interviews; Brief Psychiatric Rating Scale (BPRS) assessments; and systematic reviews of medical and disciplinary files for these subjects. We also conducted a paper survey of the entire long-term solitary confinement population (n = 225 respondents) and analyzed administrative data for the entire population of prisoners in the state in 2017 (n = 17,943). Results reflect qualitative content and descriptive statistical analysis. BPRS scores reflect clinically significant somatic concerns in 15% of sample. Objective specification of medical conditions is generally elusive, but that, itself, is a highly informative finding. Using subjective reports, we specify and analyze a range of physical symptoms experienced in solitary confinement, skin irritations and weight fluctuation associated with the restrictive conditions of solitary confinement; un-treated and mis-treated chronic conditions associated with the restrictive policies of solitary confinement; musculoskeletal pain exacerbated by both restrictive conditions and policies. Administrative data analyses reveal disproportionate rates of racial/ethnic minorities in solitary confinement. This analysis raises the stakes for future studies to evaluate comparative prevalence of objective medical diagnoses and potential causal mechanisms for the physical symptoms specified here, and for understanding differential use of solitary confinement and its medically harmful sequelae.
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7546459/
+  categories:
+    - Prisons
+    - Incarceration  
+- name: Being and Nothingness
+  description: Being and Nothingness - An Essay on Phenomenological Ontology, sometimes published with the subtitle A Phenomenological Essay on Ontology, is a 1943 book by the philosopher Jean-Paul Sartre. In the book, Sartre develops a philosophical account in support of his existentialism, dealing with topics such as consciousness, perception, social philosophy, self-deception, the existence of "nothingness", psychoanalysis, and the question of free will.
+  link: https://en.wikipedia.org/wiki/Being_and_Nothingness
+  categories:
+    - Nothing
+    - Philosophy      
+- name: What Twitter Does to Our Sense of Time
+  description: The past few weeks, watching people weigh alternatives to Twitter, I’ve been reminded of a moment that occurs in every episode of “Tidying Up With Marie Kondo.” She makes her clients put every piece of clothing they own into a giant (often horrifying) pile before going through it, holding and addressing each garment individually. Although Kondo is sometimes written off as a minimalist who tells you to get rid of everything, to me, her work has more to do with intention and cultivating meaningful ties to the things you have. Clients on the show often end up reckoning with their identities — who they are and who they want to be — and with fundamental shifts they’ve been too scared or busy to take on. For Kondo, to arrange your things is to arrange your best self and your idea of the good life.
+  categories:
+  link: https://www.nytimes.com/2022/12/08/opinion/twitter-odell-time.html
+    - Nothing
+    - Philosophy  

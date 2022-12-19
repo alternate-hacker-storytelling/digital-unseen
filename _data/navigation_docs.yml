@@ -1,7 +1,29 @@
-- title: Science
+- title: Context
+  docs:
+  - context
+
+- title: People
+  docs:
+  - brains
+  - family
+  - fear
+  - home
+  - mental-health  
+  - people
+
+- title: Research
   docs:
   - research
 
-- title: Web
+- title: Employment
   docs:
-  - digital
+  - employment
+
+- title: Science
+  docs:
+  - science  
+
+- title: Surveillance
+  docs:
+  - surveillance
+  - privacy    

@@ -1,11 +1,10 @@
-# Navbar left menu navigation links
-
 left:
+
   - title: Home
     url: /
 
   - title: Outline
-    url: /docs/research/
+    url: /docs/context/
 
   - title: Stories
     url: /stories/
@@ -22,10 +21,8 @@ left:
   - title: Vocabulary
     url: /vocabulary/
 
-
-
-
-# Navbar right menu navigation links
+  - title: Categories
+    url: /categories/
 
 right:
 
