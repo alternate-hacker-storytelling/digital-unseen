@@ -306,6 +306,11 @@
   notes: The retina’s rod cells aren’t part of the cone coloring system. They work when light levels are low. Instead of photopsins, rods have a different pigment-protein pair -- rhodopsin (Roh-DOP-sin). Rods produce images only in shades of grey. But they are much more sensitive to light than cones are. They are so sensitive that a rod cell can detect a single photon of light — the smallest possible particle.
   categories:
     - Science
+
+- title: Retina Rods
+  notes: The retina’s rod cells are much more sensitive to light than cones are. They are so sensitive that a rod cell can detect a single photon of light — the smallest possible particle. These are the cells that receive you are being watched and shift yur cells.
+  categories:
+    - Science    
     
 - title: Invisible When Nobody Is Looking
   notes: Play on the character from Mystery Men.
@@ -362,7 +367,23 @@
   notes: Jean-Paul Sartre described the gaze (or "the look") in Being and Nothingness (1943)
   categories:
     - Gaze
-    - Look      
+    - Look 
+    - Jean-Paul Sartre  
+
+- title: The Gaze as Connection
+  notes: My fundamental connection with the Other-as-subject must be able to be referred back to my permanent possibility of being seen by the Other.
+  categories:
+    - Gaze
+    - Look  
+    - Jean-Paul Sartre  
+
+- title: The Eye and the Gaze
+  notes: And whereas Sartre had conceived of an essential reciprocity between seeing the Other and being-seen-by-him, Lacan now conceives of an antinomic relation between the gaze and the eye--the eye which looks is that of the subject, while the gaze is on the side of the object, and there is no coincidence between the two, since "You never look at me from the place at which I see you." When the subject looks at an object, the object is always already gazing back at the subject, but from a point at which the subject cannot see it. This split between the eye and the gaze is nothing other than the subjective division itself, expressed in the field of vision.
+  categories:
+    - Gaze
+    - Look
+    - Eyes  
+    - Jean-Paul Sartre           
 
 - title: Invisible Bureaucracy
   notes: How invisible bureaucracy is and ow invisible your pain and suffering can seem within it.
