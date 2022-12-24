@@ -23,19 +23,14 @@
     - Parks
     - Public
     
-- title: Careful What You See
-  notes: What has been seen cannot be unseen.
-  categories:
-    - Sight
-    - Head
-    
 - title: Nighttime
   notes: The unseen prefer the night and walking in the shadows as it provides camaflouge.
   categories:
     - Night
+    - Unseen
     
 - title: Dusk
-  notes: Right at dusk is the perfect time to blend in and not be seen as it hides the refelction.
+  notes: Right at dusk is the perfect time to blend in and not be seen as it hides the reflection.
   categories:
     - Night
     
@@ -45,7 +40,7 @@
     - Family
     
 - title: Cars Hitting Pedestrians
-  notes: The number of pedestrians being hit by cars is up significantly showing people aren't seen.
+  notes: The number of pedestrians being hit by cars is up significantly showing people aren't seen. It has become the top killer in the country, surpassing cancer and heart disease.
   categories:
     - Death
     - Crimes
@@ -56,7 +51,7 @@
     - Family
     
 - title: Digital Obfuscation
-  notes: Condition is acclerated using icognito, Tor, or other digital obfuscation.
+  notes: Condition is acclerated using icognito, Tor, or other digital obfuscation. When you hide or obfuscate yourself it also impacts how many know your face or know about you.
   categories:
     - Digital
     
@@ -65,6 +60,8 @@
   categories:
     - Labor
     - Work
+    - Race
+    - Class
     
 - title: Where do you feel invisible?
   notes: Crossing street, malls, stores, politics, beuracracy, family, restaurants, work, office.
@@ -422,3 +419,14 @@
     - Texture   
     - Fluctuations
     - Changes
+
+- title: Academic Relationships
+  notes: Jerome has a partner who is at the medical school, and this is how he is working on things. He is a spousal hire.    
+  categories:
+    - Substance
+    - Color  
+    - Texture   
+    - Fluctuations
+    - Changes
+
+    
