@@ -9,9 +9,9 @@ categories:
   - Mission
   - Tenillle
 ---
-When Tenillle moved through the world she was hyper aware of her place. She knew this in the online world and she knew it in the offline world. She was constantly aware of the footprint she left visually anywhere she went and recalled in a sort of photographic memory way, but more spatially, and the backdrop of a major movie motion picture.
+When Tennille moved through the world she was hyper aware of her place. She knew this in the online world and she knew it in the offline world. She was constantly aware of the footprint she left visually anywhere she went and recalled in a sort of photographic memory way, but more spatially, and the backdrop of a major movie motion picture.
 
-
+Tennille had grown aware of the time of year, the time of day, and where she moved through their city. It wasn't her city, she just knew it better than most of its inhabitants. She blended in. She was part of the city, gracefully going unseen amongst the goings on. Never standing. Always moving towards destination, but at the merrcy of the city flow.
 
 
 ----

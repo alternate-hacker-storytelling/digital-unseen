@@ -169,3 +169,17 @@
   description: The great human stream arises from a singular realization that nothingness is a state of mind in which we can become anything, in reference to our situation, that we desire.
 - name: Bad Faith
   description: Living a life defined by one's occupation, social, racial, or economic class, is the very essence of "bad faith", the condition in which people cannot transcend their situations in order to realize what they must be (human) and what they are not (waiter, grocer, etc.). 
+- name: Optometrists
+  description: Optometrists provide primary vision care. Their services range from eyesight testing and correction to diagnosing, treating, and managing changes in vision.
+- name: optician
+  description: An optician, or dispensing optician, is a technical practitioner who designs, fits and dispenses lenses for the correction of a person's vision. Opticians determine the specifications of various ophthalmic appliances that will give the necessary correction to a person's eyesight.
+- name: Ophthalmologists
+  description: Ophthalmologists are licensed to treat eye diseases and perform surgery. An ophthalmologist can offer the same refractive services as an optometrist, including prescribing and fitting eyeglasses and contact lenses to correct vision issues.
+- name: Sociologists
+  description: Sociologists study human behavior, interaction, and organization. They observe the activity of social, religious, political, and economic groups, organizations, and institutions. They examine the effect of social influences, including organizations and institutions, on different individuals and groups.
+- name: Transmission Control Protocol (TCP)
+  description: A standard that defines how to establish and maintain a network conversation by which applications can exchange data. TCP works with the Internet Protocol (IP), which defines how computers send packets of data to each other.
+- name: Hypertext Transfer Protocol (HTTP)
+  description: An application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems.
+- name: User Datagram Protocolm (UDP)
+  description: One of the core communication protocols of the Internet protocol suite used to send messages to other hosts on an Internet Protocol network. Within an IP network, UDP does not require prior communication to set up communication channels or data paths. 
