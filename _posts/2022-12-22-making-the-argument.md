@@ -5,6 +5,7 @@ categories:
   - Humans
   - Sight
   - Science
+  - Research
 ---
 Jerome was determined to make his case without sounding crazy as he has several times before. He felt like he has done his homework this time, but the only way to find out was to try and convince Terry. He was the expert.
 

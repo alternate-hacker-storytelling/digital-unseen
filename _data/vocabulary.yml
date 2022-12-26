@@ -1,4 +1,12 @@
 ---
+- name: Bad Faith
+  description: Living a life defined by one's occupation, social, racial, or economic
+    class, is the very essence of "bad faith", the condition in which people cannot
+    transcend their situations in order to realize what they must be (human) and what
+    they are not (waiter, grocer, etc.).
+- name: Biological Clock
+  description: A mechanism present in all life forms that controls when various functions
+    such as metabolic signals, sleep cycles or photosynthesis should occur.
 - name: Body Clock
   description: A mechanism present in all life forms that controls when various functions
     such as metabolic signals, sleep cycles or photosynthesis should occur.
@@ -15,9 +23,9 @@
     be an adjective to describe properties of materials that are the result of various
     reactions between different compounds.
 - name: Cones
-  description: (in biology) A type of eye cell that is part of the retina inside
+  description: "(in biology) A type of eye cell that is part of the retina inside
     the back of the eye. These cells can sense red, green or blue light. Recent research
-    has uncovered evidence that many can sense white light — but only white light.
+    has uncovered evidence that many can sense white light — but only white light."
 - name: Cornea
   description: The transparent front section of the eye. The shape of the cornea allows
     our eyes to bring objects at many distances into focus.
@@ -36,16 +44,26 @@
     thought, as well as a steady intent look.
 - name: Gestalt
   description: An organized whole that is perceived as more than the sum of its parts.
+- name: Hypertext Transfer Protocol (HTTP)
+  description: An application layer protocol in the Internet protocol suite model
+    for distributed, collaborative, hypermedia information systems.
 - name: Invisible
   description: Unable to be seen; not visible to the eye.
 - name: Lens
-  description: A transparent part of the eye behind the colored iris that focuses incoming light onto the light-absorbing membrane at the back of the eyeball. A transparent material that can either focus or spread out parallel rays of light as they pass through it.
+  description: A transparent part of the eye behind the colored iris that focuses
+    incoming light onto the light-absorbing membrane at the back of the eyeball. A
+    transparent material that can either focus or spread out parallel rays of light
+    as they pass through it.
 - name: Melanopsin ganglion cells
   description: Light-sensitive cells in the eye that send signals to the olivary pretectal
     nucleus. The signals regulate the size of the eye’s pupil, and help control the
     body clock.
 - name: Molecule
-  description: An electrically neutral group of atoms that represents the smallest possible amount of a chemical compound. Molecules can be made of single types of atoms or of different types. For example, the oxygen in the air is made of two oxygen atoms (O2), but water is made of two hydrogen atoms and one oxygen atom (H2O).
+  description: An electrically neutral group of atoms that represents the smallest
+    possible amount of a chemical compound. Molecules can be made of single types
+    of atoms or of different types. For example, the oxygen in the air is made of
+    two oxygen atoms (O2), but water is made of two hydrogen atoms and one oxygen
+    atom (H2O).
 - name: Neglect
   description: Fail to care for properly or the state or fact of being uncared for.
 - name: Nerve
@@ -54,7 +72,11 @@
     of its legs or fins, and some of which convey sensations such as hot, cold or
     pain.
 - name: Nucleus
-  description: Plural is nuclei. A dense structure present in many cells. Typically a single rounded structure encased within a membrane, the nucleus contains the genetic information. (in astronomy) The rocky body of a comet, sometimes carrying a jacket of ice or frozen gases. (in physics) The central core of an atom, containing most of its mass.
+  description: Plural is nuclei. A dense structure present in many cells. Typically
+    a single rounded structure encased within a membrane, the nucleus contains the
+    genetic information. (in astronomy) The rocky body of a comet, sometimes carrying
+    a jacket of ice or frozen gases. (in physics) The central core of an atom, containing
+    most of its mass.
 - name: Obscure
   description: Not discovered or known about; uncertain.
 - name: Occipital Cortex
@@ -64,14 +86,27 @@
   description: A small group of cells in the center of the brain, at the base. These
     cells control how big the pupils of your eyes are, and how much light they let
     in. They also help tell the body what time it is.
+- name: Ophthalmologists
+  description: Ophthalmologists are licensed to treat eye diseases and perform surgery.
+    An ophthalmologist can offer the same refractive services as an optometrist, including
+    prescribing and fitting eyeglasses and contact lenses to correct vision issues.
 - name: Opsin
   description: A light-sensing protein that is usually found in a part of the eye
     called the retina.
+- name: Optician
+  description: An optician, or dispensing optician, is a technical practitioner who
+    designs, fits and dispenses lenses for the correction of a person's vision. Opticians
+    determine the specifications of various ophthalmic appliances that will give the
+    necessary correction to a person's eyesight.    
 - name: Optogenetics
   description: Optogenetics is an elegant approach of precisely controlling and monitoring
     the biological functions of a cell, group of cells, tissues, or organs with high
     temporal and spatial resolution by using optical system and genetic engineering
     technologies
+- name: Optometrists
+  description: Optometrists provide primary vision care. Their services range from
+    eyesight testing and correction to diagnosing, treating, and managing changes
+    in vision.
 - name: Particle
   description: A minute amount of something.
 - name: Photon
@@ -140,46 +175,47 @@
   description: An implicit agreement among the members of a society to cooperate for
     social benefits, for example by sacrificing some individual freedom for state
     protection.
+- name: Sociologists
+  description: Sociologists study human behavior, interaction, and organization. They
+    observe the activity of social, religious, political, and economic groups, organizations,
+    and institutions. They examine the effect of social influences, including organizations
+    and institutions, on different individuals and groups.
+- name: The Great Human Stream
+  description: The great human stream arises from a singular realization that nothingness
+    is a state of mind in which we can become anything, in reference to our situation,
+    that we desire.
 - name: Tissue
   description: Made of cells, it is any of the distinct types of materials that make
     up animals, plants or fungi. Cells within a tissue work as a unit to perform a
     particular function in living organisms. Different organs of the human body, for
     instance, often are made from many different types of tissues.
+- name: Transmission Control Protocol (TCP)
+  description: A standard that defines how to establish and maintain a network conversation
+    by which applications can exchange data. TCP works with the Internet Protocol
+    (IP), which defines how computers send packets of data to each other.
 - name: Transmit
   description: To send or pass along.
 - name: Transparency
   description: The condition of being transparent.
-- name: Unseen
-  description: Not seen or noticed.
-- name: Visual System
-  description: The visual system is the part of the nervous system which allows organisms to see. It interprets the information from visible light to build a representation of the world surrounding the body. The visual system has the complex task of (re)constructing a three dimensional world from a two dimensional projection of that world. The psychological manifestation of visual information is known as visual perception. 
-- name: Biological Clock
-  description: A mechanism present in all life forms that controls when various functions
-    such as metabolic signals, sleep cycles or photosynthesis should occur.
 - name: Transparent
   description: Allowing light to pass through so that objects behind can be distinctly
     seenW
+- name: Unseen
+  description: Not seen or noticed.
+- name: User Datagram Protocolm (UDP)
+  description: One of the core communication protocols of the Internet protocol suite
+    used to send messages to other hosts on an Internet Protocol network. Within an
+    IP network, UDP does not require prior communication to set up communication channels
+    or data paths.
+- name: Visual System
+  description: The visual system is the part of the nervous system which allows organisms
+    to see. It interprets the information from visible light to build a representation
+    of the world surrounding the body. The visual system has the complex task of (re)constructing
+    a three dimensional world from a two dimensional projection of that world. The
+    psychological manifestation of visual information is known as visual perception.
 - name: Wavelength
   description: The distance between one peak and the next in a series of waves, or
     the distance between one trough and the next. It’s also one of the “yardsticks”
     used to measure radiation. Visible light — which, like all electromagnetic radiation,
     travels in waves — includes wavelengths between about 380 nanometers (violet)
     and about 740 nanometers (red).
-- name: The Great Human Stream
-  description: The great human stream arises from a singular realization that nothingness is a state of mind in which we can become anything, in reference to our situation, that we desire.
-- name: Bad Faith
-  description: Living a life defined by one's occupation, social, racial, or economic class, is the very essence of "bad faith", the condition in which people cannot transcend their situations in order to realize what they must be (human) and what they are not (waiter, grocer, etc.). 
-- name: Optometrists
-  description: Optometrists provide primary vision care. Their services range from eyesight testing and correction to diagnosing, treating, and managing changes in vision.
-- name: optician
-  description: An optician, or dispensing optician, is a technical practitioner who designs, fits and dispenses lenses for the correction of a person's vision. Opticians determine the specifications of various ophthalmic appliances that will give the necessary correction to a person's eyesight.
-- name: Ophthalmologists
-  description: Ophthalmologists are licensed to treat eye diseases and perform surgery. An ophthalmologist can offer the same refractive services as an optometrist, including prescribing and fitting eyeglasses and contact lenses to correct vision issues.
-- name: Sociologists
-  description: Sociologists study human behavior, interaction, and organization. They observe the activity of social, religious, political, and economic groups, organizations, and institutions. They examine the effect of social influences, including organizations and institutions, on different individuals and groups.
-- name: Transmission Control Protocol (TCP)
-  description: A standard that defines how to establish and maintain a network conversation by which applications can exchange data. TCP works with the Internet Protocol (IP), which defines how computers send packets of data to each other.
-- name: Hypertext Transfer Protocol (HTTP)
-  description: An application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems.
-- name: User Datagram Protocolm (UDP)
-  description: One of the core communication protocols of the Internet protocol suite used to send messages to other hosts on an Internet Protocol network. Within an IP network, UDP does not require prior communication to set up communication channels or data paths. 

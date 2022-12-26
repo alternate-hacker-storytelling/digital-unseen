@@ -147,3 +147,11 @@
   link: https://www.nytimes.com/2022/12/08/opinion/twitter-odell-time.html
     - Nothing
     - Philosophy  
+- name: Meshlium Scanner
+  description: WIFI and Bluetooth devices periodically broadcast messages that indicate their presence or participation in a network (i.e. “Hello” messages). The Libelium Meshlium scanner can identify these messages and extract relevant meta-data and other vital information. The scanner can detect WIFI devices (on 2.4GHz and 5.8GHz) bands at a range of up to 500m (depending on conditions). The Bluetooth scanner can detect Bluetooth devices at a 20m range.
+  categories:
+  link: https://www.manxtechgroup.com/people-counting-using-wifi-and-bluetooth/
+    - Technology
+    - Surveillance
+    - Scanning
+    - Bluetooth      
