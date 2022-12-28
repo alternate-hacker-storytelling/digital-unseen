@@ -2,18 +2,120 @@
 
 - name: Jerome Johnson
   description: Researcher who stumbles across the syndrome while doing research about online sex workers.
+  role: primary
+  tags:
+    - Research
+    - PHD
+    - Black
+    - University
+    - Married
+    - Male
 
-- name: Molly Richardson
-  description: Single white female who works remotely and loves to read science fiction books and lives on the 7th floor of nice high rise.
-
-- name: Sean Wright
-  description: Single young gamer who hates working and just wants to stay home and do what they want, without being hassled by anyone.
-
-- name: Tiago Fuentes
-  description: Tiago is a super fit and young gamer who has crafted a perfect reality for himself to live in each day. 
+- name: Natasha Gorlov
+  description: A 24 year old online sex work who does videos and spends time chatting with men online.
+  role: Unaware
+  tags:
+    - Single
+    - Sex Worker
+    - Abused
 
 - name: Lauren Hatch
   description: A 35 year old hacker who is a faithful member of the unseen, making her living across what she steals from stores and generates vai online ads.
+  role: Aware
+  tags:
+    - Non-Binary
+    - Single
+    - Hacker
+    - Criminal
 
-- name: Terry Carmichael
-  description: The specialist who Jerome is trying to convince. 
+- name: Tiva Way
+  description: A Hopi girl who has always "danced" in the shadows, and has found herself living in the bay area at her uncles.
+  role: Aware
+  tags:
+    - Female
+    - Single
+    - Thief
+    - Criminal   
+    - Self-Sufficent 
+
+- name: Jermont Jackson
+  description: A quiet bookish teenage black boy who stays out of trouble and isn't seen as a regular part of what he does.
+  role: Aware
+  tags:
+    - Male
+    - Black
+    - Teenager    
+
+- name: Molly Richardson
+  description: Single white female who works remotely and loves to read science fiction books and lives on the 7th floor of nice high rise.
+  role: Unaware
+  tags:
+    - Single
+    - White
+    - Female
+    - Marketing
+
+- name: Sean Wright
+  description: Young gamer who dropped out of school and has parents supporting him, just hanging out with his partner Pooja. 
+  role: Unaware
+  tags:
+    - Relationship
+    - White
+    - Male
+    - Lazy
+
+- name: Pooja Patel
+  description: Young programmer who is partner to Sean, spends her time coding and gaming alongside her partner.
+  role: Unaware
+  tags:
+    - Relationship
+    - Brown
+    - Female
+    - Lazy    
+
+- name: Tiago Fuentes
+  description: Tiago is a super fit and young gamer who has crafted a perfect reality for himself to live in each day. 
+  role: Aware
+  tags:
+    - Relationship
+    - Brazilian
+    - Orphan
+    - Gamer
+    - Soylent
+    - Queer
+
+- name: Dante Brown
+  description: Dante provides chat support for a major airlines, and spends his time gaming, and writing songs on his piano.
+  role: Aware
+  tags:
+    - Relationship
+    - Black
+    - Gamer
+    - Soylent
+    - Queer    
+
+- name: Terry Cho
+  description: The specialist who Jerome is trying to convince who works at the same university.
+  role: Supporting
+  tags:
+    - Chinese
+    - Male
+    - University
+    - Optogenetisist
+
+- name: Tank Jones
+  description: A disabled Iraqi War veteran who used to be homeless, but now lives in run down building and does a lot of activism 
+  role: Aware
+  tags:
+    - Disabled
+    - Wheelchair
+    - Activism
+    - Parks    
+
+- name: Francis Curry
+  description: A strugglng freelance journalist who is following several stories related to peoples visibility, including the pedestrians getting hit, disabled people advocacy, and others.
+  role: Unaware
+  tags:
+    - Journalist
+    - Female
+    - Not White    
