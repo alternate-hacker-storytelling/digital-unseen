@@ -9,10 +9,9 @@ categories:
   - Mission
   - Tenillle
 ---
-When Tennille moved through the world she was hyper aware of her place. She knew this in the online world and she knew it in the offline world. She was constantly aware of the footprint she left visually anywhere she went and recalled in a sort of photographic memory way, but more spatially, and the backdrop of a major movie motion picture.
+When Lauren moved through the world she was hyper aware of her place. She knew this in the online world and she knew it in the offline world. She was constantly aware of the footprint she left visually anywhere she went and recalled in a sort of photographic memory way, but more spatially, and the backdrop of a major movie motion picture.
 
-Tennille had grown aware of the time of year, the time of day, and where she moved through their city. It wasn't her city, she just knew it better than most of its inhabitants. She blended in. She was part of the city, gracefully going unseen amongst the goings on. Never standing. Always moving towards destination, but at the merrcy of the city flow.
-
+Lauren had grown aware of the time of year, the time of day, and where she moved through their city. It wasn't her city, she just knew it better than most of its inhabitants. She blended in. She was part of the city, gracefully going unseen amongst the goings on. Never standing. Always moving towards destination, but at the mercy of the city flow.
 
 ----
 Escaping notice need not be about complacent isolation, mindless conformity or humiliating anonymity. When circumstance confers invisibility upon us, perhaps it is something to appreciate and even welcome, as some iteration of the small imprint, low-impact living it makes sense to aspire to. Or possibly as a more profound poise, a fuller appreciation for our place in the greater scheme of things.
